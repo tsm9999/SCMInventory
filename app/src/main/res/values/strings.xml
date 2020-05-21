@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SCM Inventory</string>
+
+    <string-array name="size">
+        <item>GM</item>
+        <item>KG</item>
+    </string-array>
+
+</resources>

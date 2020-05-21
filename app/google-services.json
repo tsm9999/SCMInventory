@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "750858299218",
+    "firebase_url": "https://scmapp-54ae1.firebaseio.com",
+    "project_id": "scmapp-54ae1",
+    "storage_bucket": "scmapp-54ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750858299218:android:f85d4dd1a565c32558bc8b",
+        "android_client_info": {
+          "package_name": "com.pratik.scm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750858299218-nfp7a9te2d5l4fo95buqv5fskcf9pfiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratik.scm",
+            "certificate_hash": "e8ff99f92e4f06a807af46631dd6ee4c33c2a37e"
+          }
+        },
+        {
+          "client_id": "750858299218-3qooq9kdtuufsuoaspcqegd90fo6cprf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEWMGSF61otejMAU_zDYm5h6TjZa2uNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750858299218-3qooq9kdtuufsuoaspcqegd90fo6cprf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750858299218:android:78dfdde1dafce40e58bc8b",
+        "android_client_info": {
+          "package_name": "com.pratik.scmcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750858299218-ujdbqshl2icksi0a1t1vo0pau5vrccm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratik.scmcompany",
+            "certificate_hash": "e8ff99f92e4f06a807af46631dd6ee4c33c2a37e"
+          }
+        },
+        {
+          "client_id": "750858299218-3qooq9kdtuufsuoaspcqegd90fo6cprf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEWMGSF61otejMAU_zDYm5h6TjZa2uNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750858299218-3qooq9kdtuufsuoaspcqegd90fo6cprf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750858299218:android:af8e4cfac82e1cb258bc8b",
+        "android_client_info": {
+          "package_name": "com.pratik.scminventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750858299218-3qooq9kdtuufsuoaspcqegd90fo6cprf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEWMGSF61otejMAU_zDYm5h6TjZa2uNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750858299218-3qooq9kdtuufsuoaspcqegd90fo6cprf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
